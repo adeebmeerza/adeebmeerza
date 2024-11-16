@@ -1,7 +1,7 @@
 ## Hi, I'm adeebmeerza 👋
 - 🔭 I'm eager to build high-performance system for innovative tech
 - 🌱 I'm interested to learn about network, devops and front-end
-- 📫 How to reach me: adib.haziq.dev@gmail.com
+- 📫 How to reach me: adib.mirza.dev@gmail.com
 
 **🔨 Stack**
 - Backend: NodeJS, ExpressJS, NestJS
